@@ -9,7 +9,7 @@ A korábban PLC-ről letöltött fájlt megnyitjuk ("Megnyitás"), majd a progra
 
 A "mintafajl.csv" egy olyan fájl, amelyet képes feldolgozni.
 
-![Alt text](mintafajlabrazols.PNG?raw=true "Title")
+![Alt text](mintafajlabrazolas.PNG?raw=true "Title")
 ![alt text](https://climate.nasa.gov/assets/images_of_change/ioc_intro_image.png)
 
 # A fejlesztés menetéről
