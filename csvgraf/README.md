@@ -10,11 +10,9 @@ A korábban PLC-ről letöltött fájlt megnyitjuk ("Megnyitás"), majd a progra
 A "mintafajl.csv" egy olyan fájl, amelyet képes feldolgozni.
 
 ![Alt text](mintafajlabrazolas.PNG?raw=true "Title")
-![alt text](https://climate.nasa.gov/assets/images_of_change/ioc_intro_image.png)
 
 # A fejlesztés menetéről
 A program Windows operációs rendszerre volt szánva. Korábban is inkább a c# nyelvet preferáltam, ezért kézenfekvő volt abban megoldani a problémát. A Windows Form-os grafikonok számomra ismeretlenek voltak korábban így azokat az internetről (fórumok, dokumentációk, videók alapján) kellett megismernem.
-
 
 # Problémák
 A programmal kapcsolatos hibák:
@@ -22,7 +20,6 @@ A programmal kapcsolatos hibák:
   - A fájl nincs megfelelően szerkesztve.
   - Nincs olvasási jogosultsága a programnak.
 - Csúnya a felület.
-
 
 A fejlesztéssel, dokumentálással kapcsolatos hibák:
 - A program fejlesztése egy hosszabb utazásom miatt félbemaradt.
