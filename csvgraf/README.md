@@ -7,7 +7,7 @@ Apukám PLC programozással foglalkozik (ipari automatizálás), és egy ilyen e
 # Működés
 A korábban PLC-ről letöltött fájlt megnyitjuk ("Megnyitás"), majd a program megjeleníti annak tartalmát. Ha működés közben felülírjuk a fájlt, a "Frissítés" gombbal ugyanazon elérési helyű fájlt olvassuk be, és ábrázoljuk.
 
-A "mintafajl.csv" egy olyan fájl, amelyet képes feldolgozni.
+A mellékelt "mintafajl.csv" egy olyan fájl, melynek feldolgozására képes.
 
 ![Alt text](mintafajlabrazolas.PNG?raw=true "Title")
 
