@@ -7,6 +7,10 @@ Apukám PLC programozással foglalkozik (ipari automatizálás), és egy ilyen e
 # Működés
 A korábban PLC-ről letöltött fájlt megnyitjuk ("Megnyitás"), majd a program megjeleníti annak tartalmát. Ha működés közben felülírjuk a fájlt, a "Frissítés" gombbal ugyanazon elérési helyű fájlt olvassuk be, és ábrázoljuk.
 
+A "mintafajl.csv" egy olyan fájl, amelyet képes feldolgozni.
+
+![alt text](https://climate.nasa.gov/assets/images_of_change/ioc_intro_image.png)
+
 # A fejlesztés menetéről
 A program Windows operációs rendszerre volt szánva. Korábban is inkább a c# nyelvet preferáltam, ezért kézenfekvő volt abban megoldani a problémát. A Windows Form-os grafikonok számomra ismeretlenek voltak korábban így azokat az internetről (fórumok, dokumentációk, videók alapján) kellett megismernem.
 
